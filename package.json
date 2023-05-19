@@ -1,0 +1,19 @@
+{
+  "name": "try-nuxt-resource-busy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dword-design/try-nuxt-resource-busy.git",
+  "author": "Sebastian Landwehr <info@sebastianlandwehr.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "@dword-design/chdir": "^3.0.1",
+    "delay": "^5.0.0",
+    "execa": "^7.1.1",
+    "fs-extra": "^11.1.1",
+    "nuxt": "^3.5.0"
+  }
+}
